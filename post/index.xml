@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sachin Bharadwaj</title>
-    <link>https://github.com/Sachin-Bharadwaj/Sachin-Portfolio/post/</link>
+    <link>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/</link>
     <description>Recent content in Projects on Sachin Bharadwaj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/Sachin-Bharadwaj/Sachin-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RL: Dueling Double DQN</title>
-      <link>https://github.com/Sachin-Bharadwaj/Sachin-Portfolio/post/project-2/</link>
+      <link>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-2/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Sachin-Bharadwaj/Sachin-Portfolio/post/project-2/</guid>
+      <guid>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-2/</guid>
       <description>Trained a deep RL agent to play Super Mario Bros. Dueling DQN architecture used. Agent learning using Prioritized memory replay.  Start of Training Trained Agent playing Super Mario Last 100 episodes average reward distribution, snapshot taken every 50 episodes As you can observe as training proceeds, the reward distribution tail becomes thicker indicating that agent is able to reach goal more often
 Link to GitHub repository</description>
     </item>
     
     <item>
       <title>Image Colorization</title>
-      <link>https://github.com/Sachin-Bharadwaj/Sachin-Portfolio/post/project-1/</link>
+      <link>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-1/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/Sachin-Bharadwaj/Sachin-Portfolio/post/project-1/</guid>
+      <guid>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-1/</guid>
       <description>AutoEncoder using Resnet18 encoder architecture and convolutional transpose decoder. Dataset is prepared by scrapping internet for colored images. Input images convert to LAB color space and L channel fed as input. A and B channels are used as targets.  Left: Gray scale image as input, Middle: Ground Truth, Right: Prediction
 Training set Validation set Link to GitHub repository</description>
     </item>
