@@ -6,10 +6,19 @@
     <description>Recent content in Hello  on Sachin Bharadwaj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Classifying Pneumothorax</title>
+      <link>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-3/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-3/</guid>
+      <description>Build classifier on highly imbalanced dataset from Kaggle Competition. Goal is to classify Pneumothorax. Random Forest achieves ~70% AUC score without any tuning. Resnet18 based CNN classifier achieves ~0.8 AUC in just about 10 epochs. Used stratified sampling. GradCAM is used to visualize where the network is paying attention.  HeatMap overlayed on top of input images Link to GitHub repository</description>
+    </item>
     
     <item>
       <title>RL: Dueling Double DQN</title>
@@ -18,7 +27,8 @@
       
       <guid>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-2/</guid>
       <description>Trained a deep RL agent to play Super Mario Bros. Dueling DQN architecture used. Agent learning using Prioritized memory replay.  Start of Training Trained Agent playing Super Mario Last 100 episodes average reward distribution, snapshot taken every 50 episodes As you can observe as training proceeds, the reward distribution tail becomes thicker indicating that agent is able to reach goal more often
-Link to GitHub repository</description>
+Link to GitHub repository
+Trained Agent playing Pong Link to GitHub repository</description>
     </item>
     
     <item>
