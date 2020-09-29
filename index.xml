@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Image/text scrapper</title>
+      <link>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-4/</link>
+      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-4/</guid>
+      <description>Scrape product reviews from Flipkart website Store new reviews in MongodB database Fetch reviews if they already exists in database before crawling Using selenium and chrome driver, perform image scraping Application is deployed live on Heroku Crawlers are extremely useful if you want to collect own data as a third party w/o using APIs  Image-Scraper ProductReview-Scraper</description>
+    </item>
+    
+    <item>
       <title>RL: Dueling Double DQN</title>
       <link>https://Sachin-Bharadwaj.github.io/Sachin-Portfolio/post/project-2/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
